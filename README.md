@@ -12,7 +12,7 @@
 ### About Me:
 - 🏦 I'm a Data Engineer at Sauter.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I a M.Sc. Candidate in Biomedical Engineer at UFPE.
+- 📝 I'm a M.Sc. Candidate in Biomedical Engineer at UFPE.
 - 💻 I use daily **bigquery**, **.py**, **.airflow**, **all Google Workspace**
 - 📖 I am currently reading **Python Fluent** by Ramalho
 - 💬 Talk to me about Biomedical Engineer, python, Data Universe & startups
