@@ -10,11 +10,11 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ### About Me:
-- 🏦 I'm a Data Engineer at Sauter.
+- 🏦 I'm a Data Engineer at Sauter and Google Certified Professional Data Engineer.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I'm a M.Sc. Candidate in Biomedical Engineer at UFPE.
 - 💻 I use daily **bigquery**, **.py**, **.airflow**, **all Google Workspace**
-- 📖 I am currently reading **Python Fluent** by Ramalho
+- 📖 I am currently reading **Programador Apaixonado** 
 - 💬 Talk to me about Biomedical Engineer, python, Data Universe & startups
 - ⚡ Fun fact: Hablo español.
 
