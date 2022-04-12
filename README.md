@@ -15,8 +15,8 @@
 - 📝 I'm a M.Sc. Candidate in Biomedical Engineer at UFPE.
 - 💻 I use daily **bigquery**, **.py**, **.airflow**, **all Google Workspace**
 - 📖 I am currently reading **Programador Apaixonado** 
-- 💬 Talk to me about Biomedical Engineer, python, Data Universe & startups
-- ⚡ Fun fact: Hablo español.
+    - 💬 Talk to me about Biomedical Engineer, python, Data Universe & startups
+    - ⚡ Fun fact: Hablo español.
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
