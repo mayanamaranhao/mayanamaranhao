@@ -7,52 +7,21 @@
     <a href="https://www.linkedin.com/in/mayana-maranh%C3%A3o-510986115/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
 
-<h1 align="center">
-  <b>Mayana</b>
-</h1>
+### About Me:
+- 🏦 I'm a Data Engineer at Sauter and Google Certified Professional Data Engineer.
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 📝 I'm a M.Sc. Candidate in Biomedical Engineer at UFPE.
+- 💻 I use daily **bigquery**, **.py**, **.airflow**, **all Google Workspace**
+- 📖 I am currently reading **Programador Apaixonado** 
+    - 💬 Talk to me about Biomedical Engineer, python, Data Universe & startups
+     - ⚡ Fun fact: Hablo español.
 
-Heya! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-
-<br>
-
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
-</div>
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" alt="google_bigquery" width="65" height="65"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
 </p>
-
-```python
-class Mayana():
-    
-  def __init__(self):
-    self.name = "Mayana Maranhão";
-    self.username = "mayanamaranhao";
-    self.location = "Pernambuco, Brazil";
-    self.linkedin = "https://www.linkedin.com/in/mayana-maranh%C3%A3o-510986115/";
-    self.instagram = "@maya_maranhao";
-  
-  def __str__(self):
-    return self.name
-
-if __name__ == '__main__':
-    me = Mayana()
-```
-
-<div align="center">
-  <a href="https://open.spotify.com/show/3xE32o8vfJsbLfarPx6wcw">
-    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0s2wgpyB7sUgeEVBhmC9Nt?utm_source=generator&theme=0&t=0" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-  </a>
-</div>
-
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/show/3xE32o8vfJsbLfarPx6wcw">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
--->
 
 ## My Statistics
 
