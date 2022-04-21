@@ -3,8 +3,10 @@
 
   <div>
   <p align="left">
-    <a href = "mayanamdf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/mayana-maranh%C3%A3o-510986115/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+     <a href = "https://instagram.com/maya_maranhao?utm_medium=copy_link"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+     <a href = "https://open.spotify.com/show/3xE32o8vfJsbLfarPx6wcw?si=de46dffaeacf490a"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+     <a href = "mayanamdf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+     <a href="https://www.linkedin.com/in/mayana-maranh%C3%A3o-510986115/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
 
 ### About Me:
@@ -13,8 +15,7 @@
 - 📝 I'm a M.Sc. Candidate in Biomedical Engineer at UFPE.
 - 💻 I use daily **bigquery**, **.py**, **.airflow**, **all Google Workspace**
 - 📖 I am currently reading **Programador Apaixonado** 
-    - 💬 Talk to me about Biomedical Engineer, python, Data Universe & startups
-     - ⚡ Fun fact: Hablo español.
+- ⚡ Fun fact: I'm a podcaster at Coda AI.
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
