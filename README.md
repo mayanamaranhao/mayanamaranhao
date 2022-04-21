@@ -27,7 +27,7 @@
 
 <br/>
 <p align="left">
-  <a href="https://abhigyantrips.dev/">
+  <a href="https://mayanamaranhao.dev/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mayanamaranhao&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayanamaranhao&theme=gruvbox&hide_border=true" />
   </a>
