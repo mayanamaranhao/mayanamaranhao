@@ -10,7 +10,7 @@
   </div>
 
 ### About Me:
-- 🏦 I'm a Data Scientist|Engineer at Sauter and Google Certified Professional Data Engineer.
+- 🏦 I'm a ML Engineer at MercadoLivre and Google Certified Professional Data Engineer.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I'm a M.Sc. Candidate in Biomedical Engineer at UFPE.
 - 💻 I use daily **bigquery**, **.py**, **.airflow**, **all Google Workspace**
